@@ -1,8 +1,8 @@
-# Game Demo - Strangelands
+# Game Demo Scene - Strangelands
 
-A Unity game project utilising C# and 2D pixel-art. Play to catch and collect mushroom-like creatures.
+A playable demo of a Unity game project utilising C# and 2D pixel-art. Play to catch and collect mushroom-like creatures.
 
-Play the demo game online [here](https://biancadavey.github.io/DemoGame/).
+Play the demo scene online [here](https://biancadavey.github.io/DemoGame/).
 
 ## Features
 

@@ -27,7 +27,7 @@ Play the demo scene online [here](https://biancadavey.github.io/DemoGame/).
 
 ## Full Game Demo - Strangelands
 
-Full game demo with additional scenes and features available to download on [itch.io](https://lunar-raven.itch.io/strangelands). Read more about the game [here](https://biancadavey.github.io/Site).
+Full game demo with additional scenes and features available to download on [itch.io](https://lunar-raven.itch.io/strangelands). Read more about the game [here](https://biancadavey.github.io/PortfolioSite/projects/nested/strangelands/).
 
 ### Additional Features
 
